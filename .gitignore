@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Personal info that has to be secured and not pushed publicaly
+ghm-scrape/private.py
